@@ -15,4 +15,4 @@ I created this by running code 366 time i.e for every single date
 
 ---By using this wordlist you can crack every type of DOB Passwords---
 
------------>Please donate me if you can for my work<----------
+----------> PLEASE DONATE ME IF YOU CAN FOR MY WORK<----------
