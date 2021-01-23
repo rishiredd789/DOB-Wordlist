@@ -1,18 +1,26 @@
-# DOB-Wordlist
-DOB Wordlist of 8 digits from 1900-2099
-This is created with crunch by this code
+# Donate button in github
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A8YE92K9QM7NA)
 
-$ crunch 8 8 0123456789 -s stringstart -e stringend -o DOB_List.txt
+I found 2 ways to add `Donate` function in your github project.
+- Markdown
+- Button
 
-stringstart means you should define a start number
-example: crunch 8 8 0123456789 -s 31121900 -e 31122099 -o 3112.txt
+## Markdown
 
-similarly stringend means you should define end number
+You can get link of image file in SVG file format like this [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A8YE92K9QM7NA) from `http://shields.io/`
+and concatinate it with your [email code](https://developer.paypal.com/docs/classic/paypal-payments-standard/ht_create-pps-buttons/) in your PayPal account, please see example below:
+```
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](YOUR_EMAIL_CODE)
+```
 
-To Create this word list you should have lot of patience
+## Button
 
-I created this by running code 366 time i.e for every single date
+The button in `Donation` like `Markdown` topic but only change the image.
+```
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](YOUR_EMAIL_CODE)
+```
 
----By using this wordlist you can crack every type of DOB Passwords---
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
-----------> PLEASE DONATE ME IF YOU CAN FOR MY WORK<----------
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A8YE92K9QM7NA)
