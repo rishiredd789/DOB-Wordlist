@@ -9,7 +9,9 @@ crunch 8 8 0123456789 -s 'starting' -e 'ending' -o DoB_List.txt
 ```
 
 Here 'starting' means the starting date month and year 
+<br>
 'ending' means end date month and year
+<br>
 it is in the format of DDMMYYYY
 <br>
 ### Example:
