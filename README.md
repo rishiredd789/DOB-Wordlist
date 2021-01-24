@@ -16,7 +16,6 @@ and i concatinated every txt file by opening one by one this is how i created th
 ------------------------->please Donate me if you can<-------------------------
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/Rural2017?locale.x=en_GB) 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](9398464388@paytm)
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
