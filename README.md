@@ -1,10 +1,10 @@
-## Wordlist of Date of Births from 1900 - 2099
+### Wordlist of Date of Births from 1900 - 2099
 
 Creating this wordlist is not so easy you should have more patience
 
 I have created this with crunch
 
-(root@kali)-[home/skar/Desktop]$ crunch 8 8 0123456789 -s 'starting' -e 'ending' -o DoB_List.txt
+# (root@kali)-[home/skar/Desktop]$ crunch 8 8 0123456789 -s 'starting' -e 'ending' -o DoB_List.txt
 
 Here 'starting' means the starting date month and year 
 example: $ crunch 8 8 0123456789 -s 01011900 -e 01012099 -o DoB_List1.txt
