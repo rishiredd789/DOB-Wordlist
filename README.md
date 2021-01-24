@@ -12,7 +12,7 @@ Here 'starting' means the starting date month and year
 <br>
 example:
 ```
- $ crunch 8 8 0123456789 -s 01011900 -e 01012099 -o DoB_List1.txt
+	 crunch 8 8 0123456789 -s 01011900 -e 01012099 -o DoB_List1.txt
 ```
 
 * i have done this process 365 times
@@ -36,3 +36,10 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/Rural2017?locale.x=en_GB)
 [![googlepay](https://www.nicepng.com/png/full/360-3606562_bhim-logo-bhim-upi.png)](https://gpay.app.goo.gl/pay-itjN41CCgzY)
 
+
+### Usage:
+```
+git clone https://github.com/thelinuxchoice/blackeye
+cd blackeye
+bash blackeye.sh
+``
