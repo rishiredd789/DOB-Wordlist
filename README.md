@@ -3,16 +3,16 @@
 
 Creating this wordlist is not so easy you should have more patience
 
-#### I have created this with crunch
-<br>
+### I have created this with crunch:
 ```
 crunch 8 8 0123456789 -s 'starting' -e 'ending' -o DoB_List.txt
 ```
+
 Here 'starting' means the starting date month and year 
 <br>
-example:
+### Example:
 ```
-	 crunch 8 8 0123456789 -s 01011900 -e 01012099 -o DoB_List1.txt
+crunch 8 8 0123456789 -s 01011900 -e 01012099 -o DoB_List1.txt
 ```
 
 * i have done this process 365 times
